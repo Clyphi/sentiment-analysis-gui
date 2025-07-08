@@ -1,0 +1,9 @@
+# === Pflichtpakete ===
+pandas>=1.3.0
+scikit-learn>=1.0
+
+# === Hinweis zu tkinter ===
+# tkinter ist für die GUI erforderlich, aber bei den meisten Python-Distributionen (z. B. Windows, macOS) bereits enthalten.
+# Unter Linux muss es ggf. manuell installiert werden:
+# Ubuntu/Debian: sudo apt install python3-tk
+# Fedora:        sudo dnf install python3-tkinter
