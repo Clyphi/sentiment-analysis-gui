@@ -39,6 +39,10 @@ Beispieldateien: `twitter_training.csv`, `sentiment_analysis.csv` (abgespeckt)
 - `text`: Die zu analysierenden Texte
 - `sentiment`: Das zugehörige Label (`Positive`, `Negative`, `Neutral`, `Irrelevant`)
 
+## 📊 Beispiel-Datensätze
+
+Die Dateien `sentiment_analysis.csv` und `twitter_training.csv` wurden im Rahmen einer Lehrveranstaltung bereitgestellt und dienen ausschließlich der Veranschaulichung und Übung zur Sentiment-Analyse. Die enthaltenen Texte stammen aus öffentlich zugänglichen Quellen (z. B. Twitter) und enthalten keine sensiblen personenbezogenen Daten.
+
 **Beispiel:**
 ```
 text,sentiment
